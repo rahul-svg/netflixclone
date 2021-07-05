@@ -4,7 +4,7 @@ import requests from './request';
 import axios from './axios';
 
 function Banner() {
-
+``
     const [movie, setMovie] = useState([])
 
     useEffect(() => {
